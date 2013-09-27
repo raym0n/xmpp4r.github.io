@@ -1,4 +1,4 @@
 xmpp4r.github.io
 ================
 
-Revived version of the XMPP4R Library. With present updated code. 
+Website for the revived version of XMPP4R Library
